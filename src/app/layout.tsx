@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "Explainable spend analytics, supplier evaluation, should-cost modelling, RFQ comparison and sourcing optimization.",
   applicationName: "ProcureIQ",
   keywords: ["procurement analytics", "sourcing optimization", "should-cost", "supplier analysis", "operations research"],
-  openGraph: { title: "ProcureIQ", description: "Turn procurement data into better sourcing decisions.", type: "website", images: ["/opengraph-image"] },
+  openGraph: { title: "ProcureIQ", description: "Turn procurement data into better sourcing decisions.", type: "website" },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
