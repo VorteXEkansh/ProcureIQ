@@ -6,7 +6,8 @@
 
 ProcureIQ is a full-stack strategic procurement, cost-intelligence and sourcing decision platform built around a deterministic fictional manufacturing dataset. It connects spend visibility to supplier evaluation, should-cost modelling, RFQ normalization, constrained sourcing allocation, negotiation economics and disruption scenarios.
 
-**Live application:** deployment URL is added during the release step.  
+**Live application:** [procureiq-olive.vercel.app](https://procureiq-olive.vercel.app)
+
 **Repository:** [github.com/VorteXEkansh/ProcureIQ](https://github.com/VorteXEkansh/ProcureIQ)
 
 ![ProcureIQ executive overview](docs/images/procureiq-overview.png)

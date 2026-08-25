@@ -6,7 +6,7 @@ const geist = Geist({ subsets: ["latin"], variable: "--font-geist", display: "sw
 const mono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono", display: "swap" });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://procureiq.vercel.app"),
+  metadataBase: new URL("https://procureiq-olive.vercel.app"),
   title: { default: "ProcureIQ — Strategic Procurement Intelligence", template: "%s · ProcureIQ" },
   description: "Explainable spend analytics, supplier evaluation, should-cost modelling, RFQ comparison and sourcing optimization.",
   applicationName: "ProcureIQ",
