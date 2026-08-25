@@ -99,7 +99,7 @@ Asteron Components and every supplier are fictional. See [docs/DATA_MODEL.md](do
 
 ## Local development
 
-Requirements: Node.js 20.9+ and npm.
+Requirements: Node.js 24.x and npm.
 
 ```bash
 npm install
